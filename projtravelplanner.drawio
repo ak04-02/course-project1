@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ajtriO0d7qHT7H1WQxEm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;User&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="ajtriO0d7qHT7H1WQxEm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;User&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="-20" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="ajtriO0d7qHT7H1WQxEm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Trip&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="ajtriO0d7qHT7H1WQxEm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Trip&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="220" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="ajtriO0d7qHT7H1WQxEm-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Destination&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="ajtriO0d7qHT7H1WQxEm-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Destination&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="290" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="ajtriO0d7qHT7H1WQxEm-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Activity&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="ajtriO0d7qHT7H1WQxEm-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);strokeColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Activity&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="540" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="ajtriO0d7qHT7H1WQxEm-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Expense&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="ajtriO0d7qHT7H1WQxEm-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#007FFF);strokeColor=light-dark(#000000,#000000);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Expense&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="490" y="160" as="geometry" />
         </mxCell>
         <mxCell id="ajtriO0d7qHT7H1WQxEm-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Plans&lt;/font&gt;&lt;/b&gt;" vertex="1">
